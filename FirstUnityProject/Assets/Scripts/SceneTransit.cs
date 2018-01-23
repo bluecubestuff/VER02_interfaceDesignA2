@@ -65,4 +65,7 @@ public class SceneTransit : MonoBehaviour
         _canvas.enabled = true;
         currentCanvas = _canvas;
     }
+
+    
+
 }
